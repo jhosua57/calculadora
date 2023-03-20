@@ -1,0 +1,17 @@
+.input {
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    /* background: linear-gradient(to bottom right, rgb(71, 177, 80), rgb(57, 119, 57)); */
+    background-color: #0a0a23;
+    color: white;
+    padding: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    border: #bdbdbd;
+    box-shadow: 1px 3px 8px 1px rgb(122, 120, 120);
+  }

@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.contenedor-calculadora {
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: #d8e0e9;
+  border-radius: 20px;
+  border: 5px solid white;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 1px 3px 8px 1px rgb(122, 120, 120);
+  /* margin: -25% 0 0 -25%; */
+}
+
+.fila {
+  margin: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
