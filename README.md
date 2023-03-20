@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Calculadora Científica
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue desarrollado para el modulo 7 de FullStack developer.
+Nombre: Jose Oña Leaño
 
-## Available Scripts
+## Scripts disponibles
 
-In the project directory, you can run:
+Para ejecutar la aplicación introducir el siguiente comando:
 
 ### `npm start`
 
